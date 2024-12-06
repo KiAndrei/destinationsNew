@@ -97,8 +97,8 @@ body{
     padding: 10px 20px;
     border-radius: 30px;
     position: absolute;
-    right: 300px;
-    bottom: 190px; 
+    right: 120px;
+    bottom: -160px; 
     font-weight: 600;
     font-size: 16px;
 }
@@ -180,7 +180,7 @@ body{
 }
 .packages .card .card-body a {
     padding: 10px;
-    margin-left: 250px;
+    margin-left: 220px;
     text-decoration: none;
     background: #194817;
     color: white;
@@ -188,7 +188,7 @@ body{
 }
 
 .packages .card .card-body a span{
-    margin-left: 5px;
+    margin-left: 1px;
     
 }
 
